@@ -1,0 +1,21 @@
+{
+  "name": "videofactory",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "npx remotion preview",
+    "render": "npx remotion render"
+  },
+  "dependencies": {
+    "@remotion/bundler": "^4.0.365",
+    "@remotion/cli": "^4.0.365",
+    "@remotion/player": "^4.0.365",
+    "@remotion/renderer": "^4.0.365",
+    "@remotion/tailwind": "^4.0.365",
+    "@remotion/transitions": "^4.0.365",
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1",
+    "remotion": "^4.0.365",
+    "zod": "^3.23.8"
+  }
+}
